@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "frog bot": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
